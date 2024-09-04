@@ -1,0 +1,116 @@
+.istok-web-regular {
+    font-family: "Istok Web", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .istok-web-bold {
+    font-family: "Istok Web", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .istok-web-regular-italic {
+    font-family: "Istok Web", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .istok-web-bold-italic {
+    font-family: "Istok Web", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+
+.jerzy-hejnar-1 {
+  color: #e3b616;
+  font-family: "Istok Web", sans-serif;
+  font-size: 70px;
+}
+
+.jerzy-hejnar-2 {
+  color: #e3b616;
+  font-family: "Istok Web", sans-serif;
+  font-size: 40px;
+}
+
+body{
+  background: linear-gradient(to right, url(css/1.png)), #090909;
+}
+.fizjo{
+  background-position-x: 50px;
+  background-position-y: 353px;
+}
+
+.navbar-collapse-collapse{
+  text-align: right;
+}
+
+.background {
+    position:absolute;
+    background-position: center;
+    background-size: cover;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    right: 0px;
+    z-index: -1;
+    background-repeat: no-repeat;
+
+  }
+div.first {
+  size:inherit;
+}
+
+
+.istok-web-regular {
+  font-family: "Istok Web", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.istok-web-bold {
+  font-family: "Istok Web", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.istok-web-regular-italic {
+  font-family: "Istok Web", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.istok-web-bold-italic {
+  font-family: "Istok Web", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+.btn-13{
+  background-color: rgba(0, 143, 140, 50);
+  color: #ffffff;
+  width: 180;
+  height: 39;
+}
+
+
+
+.sidebar-hide-button{
+  color:#fff;
+  background-color: transparent;
+  width: 180;
+  height: 39;
+  border-style: solid;
+  border: transparent;
+}
+
+
+
+div.second{
+  background-color: 1E1;
+}
+
+
+
